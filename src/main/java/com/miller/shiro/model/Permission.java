@@ -7,7 +7,7 @@ import lombok.Data;
  */
 @Data
 public class Permission {
-    private Integer id;
+    private Integer pid;
 
     private String name;
 
